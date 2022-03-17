@@ -1,11 +1,11 @@
 {
-    "name": "newmochiku",
-    "short_name": "newmochiku",
+    "name": "New MochiKU",
+    "short_name": "New MochiKU",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Aplikasi Monitoring Indikator Kinerja Individu Pusdiklat Keuangan Umum.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
