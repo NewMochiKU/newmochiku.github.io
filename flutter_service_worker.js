@@ -19,11 +19,10 @@ const RESOURCES = {
 "icons/icon-512.png": "d84105ad1e91d3ab85006109dd33b924",
 "icons/Icon-maskable-192.png": "4f1859487236179fbd81e54fd4c63311",
 "icons/Icon-maskable-512.png": "d84105ad1e91d3ab85006109dd33b924",
-"index.html": "4629977748e6ac734e191281d111e856",
-"/": "4629977748e6ac734e191281d111e856",
-"main.dart.js": "9cde0aef9f9e9002aa12337dc9bf9fc0",
+"index.html": "40c8ecd0e528d1869506754342c3c614",
+"/": "40c8ecd0e528d1869506754342c3c614",
+"main.dart.js": "ae208372e1d1797aa2393cc49ba2c10e",
 "manifest.json": "e58712f14071c78e87ee94280b8526b5",
-"newmochiku.zip": "cb14f62e17335c430b739cdd3ae96478",
 "version.json": "6216ade46eb3b0ef2ead82b5c8a9cf72"
 };
 

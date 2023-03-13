@@ -24718,8 +24718,7 @@ l=(p==null?$.aV=$.cc():p).cf(0,"[DEFAULT]")
 A.bv(l,m,!0)
 n=A.kL(new A.bN(l))
 m=n.gfk(n).a.c.h(0,"uid")
-p=t.N
-o.f1(0,m).HH(0,A.ak(["email",b,"uid",m,"nama",a,"unit","PusdiklatKU","role","User","NIP",c,"Bidang",d,"Subbidang",e],p,p))
+o.f1(0,m).HH(0,A.ak(["email",b,"uid",m,"nama",a,"unit","PusdiklatKU","role","User","status",0,"NIP",c,"Bidang",d,"Subbidang",e],t.N,t.K))
 s=1
 break
 case 1:return A.S(q,r)}})
