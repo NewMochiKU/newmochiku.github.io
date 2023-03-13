@@ -14,15 +14,16 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.ico": "1275b18452c192ed6974970c2546b20a",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/icon-192.png": "4f1859487236179fbd81e54fd4c63311",
 "icons/icon-512.png": "d84105ad1e91d3ab85006109dd33b924",
 "icons/Icon-maskable-192.png": "4f1859487236179fbd81e54fd4c63311",
 "icons/Icon-maskable-512.png": "d84105ad1e91d3ab85006109dd33b924",
-"index.html": "835858cc82c2fe43be5e66f6c235e54e",
-"/": "835858cc82c2fe43be5e66f6c235e54e",
-"main.dart.js": "11eeec6c213228d51eff19f2110e2525",
+"index.html": "4629977748e6ac734e191281d111e856",
+"/": "4629977748e6ac734e191281d111e856",
+"main.dart.js": "9cde0aef9f9e9002aa12337dc9bf9fc0",
 "manifest.json": "e58712f14071c78e87ee94280b8526b5",
+"newmochiku.zip": "cb14f62e17335c430b739cdd3ae96478",
 "version.json": "6216ade46eb3b0ef2ead82b5c8a9cf72"
 };
 
