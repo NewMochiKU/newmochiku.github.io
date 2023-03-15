@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/images/logo.png": "5a93807f83cbe13dcea8801b42b004b2",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "49207a1abd6f6da14ade295d0e6f8a04",
+"assets/NOTICES": "42f79ff9aceeed0af15672862d67e06c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -19,11 +19,10 @@ const RESOURCES = {
 "icons/icon-512.png": "d84105ad1e91d3ab85006109dd33b924",
 "icons/Icon-maskable-192.png": "4f1859487236179fbd81e54fd4c63311",
 "icons/Icon-maskable-512.png": "d84105ad1e91d3ab85006109dd33b924",
-"index.html": "eea114b2080ce6e283fafc045ba72067",
-"/": "eea114b2080ce6e283fafc045ba72067",
-"main.dart.js": "d2a93569439be1c2d4b8b03ddc16ce43",
+"index.html": "5404ad5240b0145271abf080a950b3a6",
+"/": "5404ad5240b0145271abf080a950b3a6",
+"main.dart.js": "ee6f76e12a7b6fd850281a879eee0200",
 "manifest.json": "e58712f14071c78e87ee94280b8526b5",
-"newmochiku%20update%202.zip": "2a80782183a76b55c7a1b16133d23c23",
 "version.json": "6216ade46eb3b0ef2ead82b5c8a9cf72"
 };
 
