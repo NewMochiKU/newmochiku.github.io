@@ -81281,7 +81281,7 @@ h=A.av("Nama IKI",a7,a7,a7,a7,a7,a7,a7,B.dI,a7,a7,a7)
 g=a6.ad4("masukan nama IKI...")
 f=A.av("Satuan Pengukuran",a7,a7,a7,a7,a7,a7,a7,B.dI,a7,a7,a7)
 e=A.avR(A.a([a6.Em("Indeks",a8),B.aY,a6.Em("Persentase",a9),B.aY,a6.Em("Poin",b0)],j))
-d=A.av("Jenis Konsolidasi",a7,a7,a7,a7,a7,a7,a7,B.dI,a7,a7,a7)
+d=A.av("Jenis Konsolidasi Periode",a7,a7,a7,a7,a7,a7,a7,B.dI,a7,a7,a7)
 c=A.avR(A.a([a6.El("TLKV",a8),B.aY,a6.El("Average",a9),B.aY,a6.El("Sum",b0)],j))
 b=A.as(204,255,255,255)
 a=A.ab(A.a([A.au(a6.ia("Januari",a6.x),1),A.au(a6.ia("Juli",a6.ax),1)],j),B.j,B.cS,B.h)
@@ -81406,7 +81406,7 @@ o=t.p
 n=A.ab(A.a([A.av(a4.h(0,"KodeIKI"),a3,a3,a3,a3,a3,a3,a3,A.mo(a3,18,B.b1),a3,a3,a3)],o),B.j,B.n,B.h)
 m=a4.h(0,"NamaIKI")
 m=A.fc(A.ay_(m==null?"Tidak ada data":m,3),a3,a3)
-l=A.av(B.c.N("Jenis Konsolidasi: ",a4.h(0,"Jenis Konsolidasi")),a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3)
+l=A.av(B.c.N("Jenis Konsolidasi Periode: ",a4.h(0,"Jenis Konsolidasi")),a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3)
 a4=A.av(B.c.N("Target IKI (",a4.h(0,"Satuan Pengukuran"))+"):",a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3)
 k=A.b3(8)
 j=J.af(s)
@@ -82067,7 +82067,7 @@ i=t.p
 k=A.ab(A.a([o,B.aY,new A.ao(B.EH,A.dc(!1,a7,!0,A.aD(a7,A.ab(B.IY,B.j,B.n,B.h),B.k,a7,a7,new A.bg(a7,a7,a7,j,k,B.q_,B.w),a7,a7,a7,B.cF,a7,a7,a7),a7,!0,a7,a7,a7,a7,a7,a7,a7,a7,a7,new A.ao0(n,a9,b0,a8,b1),a7,a7,a7,a7,a7,a7,a7),a7)],i),B.j,B.n,B.h)
 j=a9.h(0,"NamaIKI")
 o=A.fc(A.ay_(j==null?"Tidak ada data":j,3),a7,a7)
-j=A.av(B.c.N("Jenis Konsolidasi: ",a9.h(0,"Jenis Konsolidasi")),a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7)
+j=A.av(B.c.N("Jenis Konsolidasi Periode: ",a9.h(0,"Jenis Konsolidasi")),a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7)
 h=A.av(B.c.N("Target IKI (",a9.h(0,"Satuan Pengukuran"))+"):",a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7)
 g=A.a([new A.b6(0.5,B.z,A.as(m,0,0,0),B.dl,8),B.id],l)
 f=A.b3(8)
@@ -82123,11 +82123,11 @@ if(a.G(g).f.a.a>700){g=a.G(g).f.a.a/3
 g=new A.a2(g,0,g,0)}else g=B.aB
 s=this.a
 r=t.p
-q=A.ab(A.a([A.au(A.k3(s.x,B.Gx,B.ne,h,1,h,new A.anO()),1),B.n4,A.au(A.k3(s.f,B.Gy,h,h,1,h,new A.anP()),1)],r),B.j,B.bh,B.h)
+q=A.ab(A.a([A.au(A.k3(s.x,B.Gw,B.ne,h,1,h,new A.anO()),1),B.n4,A.au(A.k3(s.f,B.Gy,h,h,1,h,new A.anP()),1)],r),B.j,B.bh,B.h)
 p=A.k3(s.r,B.Gz,h,h,1,h,new A.anQ())
 o=A.k3(s.w,B.GB,h,h,4,h,new A.anR())
 n=A.k3(s.y,B.GA,h,h,1,h,new A.anS())
-m=A.k3(s.z,B.Gw,h,h,1,h,new A.anT())
+m=A.k3(s.z,B.Gx,h,h,1,h,new A.anT())
 l=this.b
 k=this.c
 j=A.mb(A.av("Update",h,h,h,h,h,h,h,A.mo(B.f,16,B.af),h,h,h),new A.anU(s,l,k,a),h)
@@ -82157,7 +82157,7 @@ $1(a){if(a.length===0)return"Silakan masukan Satuan Pengukuran"
 return null},
 $S:23}
 A.anT.prototype={
-$1(a){if(a.length===0)return"Silakan masukan Jenis Konsolidasi"
+$1(a){if(a.length===0)return"Silakan masukan Jenis Konsolidasi Periode"
 return null},
 $S:23}
 A.anU.prototype={
@@ -86402,8 +86402,8 @@ B.wh=new A.Ku(B.Lo,4294922834)
 B.cx=new A.q(!0,B.wh,null,null,null,null,15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.nZ=new A.cy(B.q,1,B.aM,-1)
 B.co=new A.iJ(4,B.dO,B.nZ)
-B.Gw=new A.iC(null,null,null,"Jenis Konsolidasi: ",B.dG,null,null,null,null,null,null,null,null,null,B.cx,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.co,!0,null,null,null)
-B.Gx=new A.iC(null,null,null,"Tahun IKI: ",B.dG,null,null,null,null,null,null,null,null,null,B.cx,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.co,!0,null,null,null)
+B.Gw=new A.iC(null,null,null,"Tahun IKI: ",B.dG,null,null,null,null,null,null,null,null,null,B.cx,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.co,!0,null,null,null)
+B.Gx=new A.iC(null,null,null,"Jenis Konsolidasi Periode: ",B.dG,null,null,null,null,null,null,null,null,null,B.cx,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.co,!0,null,null,null)
 B.WP=new A.iC(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
 B.Gy=new A.iC(null,null,null,"Kode IKI: ",B.dG,null,null,null,null,null,null,null,null,null,B.cx,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.co,!0,null,null,null)
 B.Gz=new A.iC(null,null,null,"Jenis IKI: ",B.dG,null,null,null,null,null,null,null,null,null,B.cx,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.co,!0,null,null,null)

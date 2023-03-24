@@ -34,9 +34,9 @@ const RESOURCES = {
 "icons/icon-512.png": "d84105ad1e91d3ab85006109dd33b924",
 "icons/Icon-maskable-192.png": "4f1859487236179fbd81e54fd4c63311",
 "icons/Icon-maskable-512.png": "d84105ad1e91d3ab85006109dd33b924",
-"index.html": "5519c1deadb83db675308c76b3886327",
-"/": "5519c1deadb83db675308c76b3886327",
-"main.dart.js": "0770aa2b15b128ee536df622e451ae6e",
+"index.html": "2a9ef76e01bd24f7d6d31e2a9e3d4e3c",
+"/": "2a9ef76e01bd24f7d6d31e2a9e3d4e3c",
+"main.dart.js": "9befc79cf6d94f094df11e25ceab2318",
 "manifest.json": "e58712f14071c78e87ee94280b8526b5",
 "newmochiku%20v3.1.zip": "54e76f342fbe43a793223532a7bfbd96",
 "version.json": "6216ade46eb3b0ef2ead82b5c8a9cf72"
